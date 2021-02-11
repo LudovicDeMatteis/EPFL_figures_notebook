@@ -1,2 +1,8 @@
 
 data_analysis/
+
+notebooks/hand_motion/
+
+*.svg
+
+notebooks/TopFigure.pdf
